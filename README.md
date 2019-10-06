@@ -14,9 +14,12 @@ https://eat-da-burger-unc.herokuapp.com/api/allburgers
 
 Here you can create a burger with any name and hit the "Enter" key to add the burger.
 ![](public/images/addBurger.png)
+<br />
 Here you can see the burger you have added or the remaining burgers left not eaten. There are two buttons "Eat" or "Trash". If you "Eat" the burger then the burger will move to the eaten side. If you "Trash" the burger, it will like the name states, trash the burger.
+<br />
 ![](public/images/notEatenBurger.png)
-Here will display all the burgers yu have eaten and you can also "Trash" the burgers if you want as well.
+Here will display all the burgers you have eaten and you can also "Trash" the burgers if you want as well.
+<br />
 ![](public/images/ateBurger.png)
 
 ## Technologies Used:
